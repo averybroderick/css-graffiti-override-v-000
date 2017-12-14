@@ -1,4 +1,4 @@
-/*body {
+body {
   background: black url(../images/sketch.jpg) no-repeat center;
   background-size: cover;
 }
@@ -24,7 +24,7 @@
   height: 622px;
 }
 
-.tag-1 {
+/*.tag-1 {
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
   display: block;
